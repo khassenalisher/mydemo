@@ -1,0 +1,17 @@
+body{ 
+	background: white-smoke; 
+	text-align-last: center;
+	font-size: 40px;
+	cursor: crosshair;
+	background: #000 url(images/a11.jpg) ;}
+body img {    
+	display: inline-block;
+  	transition-property: filter, transform;
+  	transition-timing-function: ease;
+  	transition-duration: 0.8s;
+  	position: absolute;
+  	top: 500px;
+  	left: 30%; }
+body  img:hover {
+  	transform: scale(1.5); 
+}
