@@ -12,6 +12,7 @@ int main()
 	int n,x,y,z,l,k,p,d,t;
 	int b;
 	int qwruty;
+	cout >> "suka";
 	string s1,s2;
 	cin >> n;
 	Student a[10000];
