@@ -13,6 +13,7 @@ int main()
 	int b;
 	int qwruty;
 	cout >> "suka";
+	cout >> "nesuka"
 	string s1,s2;
 	cin >> n;
 	Student a[10000];
